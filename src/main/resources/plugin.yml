@@ -1,0 +1,4 @@
+name: McMMO
+version: '1.0'
+main: org.xLilRook.mcMMO.McMMO
+api-version: '1.21'
