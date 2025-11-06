@@ -1,4 +1,10 @@
 name: McMMO
-version: '1.0'
+version: 1.0.0
 main: org.xLilRook.mcMMO.McMMO
-api-version: '1.21'
+api-version: 1.19
+author: xLilRook
+description: Ein eigenes McMMO Plugin :)
+commands:
+  mcmmo:
+    description: Hauptbefehl des Plugins
+    usage: /mcmmo
